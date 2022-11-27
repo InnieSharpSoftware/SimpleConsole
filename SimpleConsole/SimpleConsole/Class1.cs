@@ -2,7 +2,7 @@
  * Сделано в Visual Studio 2010
  * .NET FrameWork 4.0
  * C#
- * Ver. 0.3
+ * Ver. 0.4
 */
 using System;
 using System.Collections.Generic;
@@ -154,12 +154,14 @@ namespace SimpleConsole
         {
             // no comments
             var r = new Random();
+            ConsoleColor lastcolor = Console.ForegroundColor;
             foreach (char letter in text)
             {
                 Console.ForegroundColor = (ConsoleColor)r.Next(16);
                 Console.Write(letter);
             }
-            Console.Write('\r');
+            Console.ForegroundColor = lastcolor;
+            Console.Write('\n');
         }
     }
 
