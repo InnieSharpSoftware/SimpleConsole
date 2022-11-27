@@ -1,0 +1,4 @@
+c:\users\inniesharp\documents\visual studio 2010\Projects\SimpleConsole\SimpleConsole\bin\Debug\SimpleConsole.dll
+c:\users\inniesharp\documents\visual studio 2010\Projects\SimpleConsole\SimpleConsole\bin\Debug\SimpleConsole.pdb
+c:\users\inniesharp\documents\visual studio 2010\Projects\SimpleConsole\SimpleConsole\obj\Debug\SimpleConsole.dll
+c:\users\inniesharp\documents\visual studio 2010\Projects\SimpleConsole\SimpleConsole\obj\Debug\SimpleConsole.pdb
